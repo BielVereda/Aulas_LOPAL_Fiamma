@@ -39,9 +39,3 @@ Cada pasta pode conter exemplos simples, desafios propostos em sala e exercício
 ## 🤝 Contribuições
 
 Este repositório é voltado para fins educacionais e de consulta pessoal. Sugestões ou melhorias são sempre bem-vindas.
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença [MIT](LICENSE) – sinta-se à vontade para estudar, adaptar ou reutilizar.
