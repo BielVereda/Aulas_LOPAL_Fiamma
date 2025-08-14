@@ -10,11 +10,7 @@ Este repositório reúne os códigos desenvolvidos durante as aulas de **Lógica
 - 🗓️ **Semestre**: 1º semestre
 - 🖥️ **Disciplina**: Lógica de Programação
 
-## 📁 Organização do repositório
-
-Os códigos estão organizados por temas ou semanas de aula. 
-
-### Exemplos:
+### 📁 Exemplos:
 
 Cada pasta pode conter exemplos simples, desafios propostos em sala e exercícios resolvidos.
 
